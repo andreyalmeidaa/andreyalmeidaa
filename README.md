@@ -47,13 +47,13 @@ Busco sempre aprender e enfrentar novos desafios na área de backend e infraestr
 <img 
   align="left" 
   alt="GitHub Stats" 
-  height="200" 
+  height="150" 
   src="https://github-readme-stats.vercel.app/api?username=andreyalmeidaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <img 
   align="left" 
   alt="Top Langs" 
-  height="200" 
+  height="150" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyalmeidaa&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
 />
 
