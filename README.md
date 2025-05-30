@@ -36,20 +36,20 @@ Sou curioso, gosto de aprender um pouco de tudo na área e estou sempre buscando
 <br/>
 
 ---
-
 ### 📊 Estatísticas GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=andreyalmeidaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyalmeidaa&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
-  />
-</p>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=andreyalmeidaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+  align="left" 
+  alt="Top Langs" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyalmeidaa&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
+/>
+
+<br clear="both"/>
+
