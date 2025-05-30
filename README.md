@@ -4,8 +4,6 @@
 
 Olá! Me chamo **Andrey Cavalcante**, tenho 19 anos e sou apaixonado por **tecnologia** desde cedo. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e trabalho como **Técnico em T.I**, atuando com suporte técnico, redes, servidores e ambientes corporativos.
 
-Tenho grande interesse por **programação backend**, criando scripts, automações e ferramentas usando linguagens como **Python**, **Go**, **Lua**, **C** e **Java**. Também exploro **bancos de dados** como **SQLite** e possuo conhecimentos em **HTML e CSS** para interfaces simples.
-
 Sou curioso, gosto de aprender um pouco de tudo na área e estou sempre buscando novos desafios!
 
 ---
