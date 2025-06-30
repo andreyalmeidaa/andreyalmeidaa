@@ -2,9 +2,8 @@
 
 **Backend Developer | Técnico em T.I | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Olá! Me chamo **Andrey Cavalcante**, tenho 19 anos e sou apaixonado por tecnologia e inovação desde criança. Atualmente curso **Análise e Desenvolvimento de Sistemas** e atuo como **Técnico em T.I**, com experiência em suporte técnico, redes, servidores e ambientes corporativos.
-
-Busco sempre aprender e enfrentar novos desafios na área de backend e infraestrutura.
+Olá! Me chamo **Andrey Cavalcante**, tenho 19 anos e sou apaixonado por tecnologia.
+Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvolvimento backend e infraestrutura.
 
 ---
 
