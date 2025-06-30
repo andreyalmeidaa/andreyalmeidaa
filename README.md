@@ -49,6 +49,7 @@ Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvo
   height="150" 
   src="https://github-readme-stats.vercel.app/api?username=andreyalmeidaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
+
 <img 
   align="left" 
   alt="Top Langs" 
