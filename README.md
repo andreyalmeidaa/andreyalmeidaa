@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Andrey Cavalcante
 
-**Backend Developer | Técnico em T.I | Estudante de Análise e Desenvolvimento de Sistemas**
+**Backend Developer | Técnico em T.I | Estudante de Análise e Desenvolvimento de Sistemas e GestãO de T.I**
 
-Olá! Me chamo **Andrey Cavalcante**, tenho 19 anos e sou apaixonado por tecnologia.
+Olá! Me chamo **Andrey Cavalcante**, tenho 20 anos e sou apaixonado por tecnologia.
 Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvolvimento backend e infraestrutura.
 
 ---
