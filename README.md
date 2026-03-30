@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Andrey Cavalcante
+# Andrey Cavalcante
 
 **Backend Developer | Técnico em T.I | Estudante de Análise e Desenvolvimento de Sistemas e GestãO de T.I**
 
