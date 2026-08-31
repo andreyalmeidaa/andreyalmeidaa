@@ -66,14 +66,23 @@ Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvo
 
 ---
 
-### 🐍 Contribuições
+### 👾 Pac-Man das Contribuições
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/gh-pages/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/gh-pages/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/gh-pages/github-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/output/pacman-contribution-graph.svg"
+  >
 </picture>
 
 </div>
