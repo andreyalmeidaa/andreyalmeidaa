@@ -1,6 +1,6 @@
 # Andrey Cavalcante
 
-**Backend Developer | Técnico em T.I | Estudante de Análise e Desenvolvimento de Sistemas e GestãO de T.I**
+**Backend Developer | Técnico em T.I | Estudante de Análise e Desenvolvimento de Sistemas e Gestão de T.I**
 
 Olá! Me chamo **Andrey Cavalcante**, tenho 20 anos e sou apaixonado por tecnologia.
 Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvolvimento backend e infraestrutura.
@@ -11,7 +11,7 @@ Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvo
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreyalmeidaa)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyalmeidaa)
-[![Instagram](https://img.shields.io/badge/-@andrey.mag_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrey.mag_)
+[![Instagram](https://img.shields.io/badge/-@andrey.mag_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euandrey.mag_)
 
 ---
 
@@ -25,17 +25,18 @@ Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvo
 
 ### 🧰 Tecnologias e Ferramentas
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
-<img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Go" title="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Lua" title="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Oracle" title="Oracle" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="SQLite" title="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Bash" title="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="HTML" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="CSS" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Windows" title="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 
 <br/><br/>
 
@@ -43,18 +44,18 @@ Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvo
 
 ### 📊 Estatísticas GitHub
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="150" 
-  src="https://github-readme-stats.vercel.app/api?username=andreyalmeidaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="150"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreyalmeidaa&theme=tokyonight"
 />
 
-<img 
-  align="left" 
-  alt="Top Langs" 
-  height="150" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyalmeidaa&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
+<img
+  align="left"
+  alt="Linguagens mais usadas"
+  height="150"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreyalmeidaa&theme=tokyonight"
 />
 
 <br clear="both"/>
