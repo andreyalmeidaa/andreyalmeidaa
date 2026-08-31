@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Andrey%20Cavalcante&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=ANDREY%20MAGALHÃES&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
