@@ -1,8 +1,12 @@
-# Andrey Cavalcante
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Andrey%20Cavalcante&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-**Backend Developer | Técnico em T.I | Estudante de Análise e Desenvolvimento de Sistemas e Gestão de T.I**
+<div align="center">
 
-Olá! Me chamo **Andrey Cavalcante**, tenho 20 anos e sou apaixonado por tecnologia.
+### Backend Developer | Técnico em T.I | ADS & Gestão de T.I
+
+</div>
+
+Olá! Me chamo **Andrey Cavalcante**, tenho 20 anos e sou apaixonado por tecnologia.  
 Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvolvimento backend e infraestrutura.
 
 ---
@@ -59,3 +63,19 @@ Estou sempre em busca de aprender e enfrentar novos desafios na área de desenvo
 />
 
 <br clear="both"/>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/andreyalmeidaa/andreyalmeidaa/output/github-snake.svg">
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer"/>
