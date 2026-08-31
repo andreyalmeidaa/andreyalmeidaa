@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pac-Man
 
 on:
   schedule:
@@ -8,27 +8,26 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: andreyalmeidaa
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+          hide_month_labels: "false"
 
-      - name: Publish snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Pac-Man to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          target_branch: output
           build_dir: dist
-          branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
